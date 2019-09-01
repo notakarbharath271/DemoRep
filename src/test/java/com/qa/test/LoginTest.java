@@ -10,5 +10,11 @@ public class LoginTest {
 		System.out.println("Login Page Test");
 		
 	}
-
+	
+	@Test
+	public void registrationTest() {
+		
+		System.out.println("Regiatration Page Test");
+		
+	}
 }
